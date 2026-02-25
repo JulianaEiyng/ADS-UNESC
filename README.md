@@ -28,7 +28,7 @@ Status: Em andamento.
 Objetivo: Compreender o gerenciamento de recursos (memória, processos e arquivos) pelo software básico.
 
 Principais Aprendizados:
-⏳ Aguardando início dos estudos.
+em desenvolvimento
 
 ---
 
@@ -38,7 +38,8 @@ Status: 8% concluída.
 Objetivo: Analisar a evolução histórica e as tendências do mercado de tecnologia.
 
 Principais Aprendizados:
-⏳ Aguardando início dos estudos.
+em desenvolvimento
+
 
 ---
 
