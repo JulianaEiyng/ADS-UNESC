@@ -13,10 +13,10 @@ Status: 28% concluída.
 Resumo: Estudo da estrutura e funcionamento dos sistemas, focando na interação entre componentes de hardware.
 
 Principais Aprendizados:
-🚀 Evolução Tecnológica: Inovações em processadores e memórias para desempenho.
-💾 Armazenamento: Superioridade dos SSDs sobre HDs (memória flash).
-⚡ Memória RAM: Diferenças técnicas entre gerações (DDR2 vs DDR4).
-⚙️ Processamento: Paralelismo através de processadores multicore.
+Evolução Tecnológica: Inovações em processadores e memórias para desempenho.
+Armazenamento: Superioridade dos SSDs sobre HDs (memória flash).
+Memória RAM: Diferenças técnicas entre gerações (DDR2 vs DDR4).
+Processamento: Paralelismo através de processadores multicore.
 
 Referências: Stallings (2024) e Patterson & Hennessy (2017).
 
