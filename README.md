@@ -45,9 +45,9 @@ Principais Aprendizados:
 ## 📖 Organização do Repositório
 Cada disciplina possui sua própria pasta com:
 
-📂 Resumos técnicos das aulas.
-📂 Resoluções de atividades práticas.
-📂 Referências bibliográficas utilizadas.
+  Resumos técnicos das aulas.
+  Resoluções de atividades práticas.
+  Referências bibliográficas utilizadas.
 
 ---
 
